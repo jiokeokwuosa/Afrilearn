@@ -300,6 +300,7 @@ footer ul li {
   input[type="text"] {
     padding: 10px 15px;
     width: 100%;
+    border: 3.1px solid black;
   }
 
   .partTwo {
